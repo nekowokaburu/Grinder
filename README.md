@@ -1,0 +1,16 @@
+# SmartGrinder - A minimalistic approach to configure a coffee grinder
+
+Current support:
+  - Single shot time
+  - Double shot time
+  - Eeprom load/save of values
+  
+ A grinder running this code can have one button. Single tab for single dose grind, double tab for double dose. Keep the button pressed for manual grinding until the button is released again.
+ 
+ ## Android App Support
+ 
+ Since I prefer a most minimalisitc approach in favour of optics of the appliance (no cluttered displays, buttons and add-on boxes) but do not want to compromise
+ on usability, an Android App is used for configuration.
+ 
+ The app will keep the last used grinder name and auto connect/disconnect on app open/pause. The grind times can be set and are automatically sent to and saved on the grinder.
+ 
