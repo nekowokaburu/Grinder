@@ -13,4 +13,5 @@ Current support:
  on usability, an Android App is used for configuration.
  
  The app will keep the last used grinder name and auto connect/disconnect on app open/pause. The grind times can be set and are automatically sent to and saved on the grinder.
- 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L0GlI7VRAxA/0.jpg)](https://www.youtube.com/watch?v=L0GlI7VRAxA)
